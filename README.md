@@ -9,4 +9,4 @@
     
       Tecla "2" chama um número da lista anterior;
         Ao pressionar a tecla, o número que estiver por mais tempo na primeira fila será removido da mesma, e adicionado em uma segunda fila;
-        Juntamente com a segunda fila, cria-se uma terceira fila, que sempre mostra-rá os 5 últimos chamados.
+        Juntamente com a segunda fila, cria-se uma terceira fila, que sempre mostra-rá os 5 últimos números chamados.
