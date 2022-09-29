@@ -1,8 +1,6 @@
-    Descrição do Projeto: 
+    Desenvolvido para a matéria de Estrutura de Dados - 2º Semestre - Atitus Educação;
 
-    1 - Desenvolvido para a matéria de Estrutura de Dados - 2º Semestre - Atitus Educação;
-
-    2 - Explicação:
+    Explicação:
       Tecla "0" finaliza o código;
   
         Ao finalizar o uso, cria-se um Log mostrando todos os dados da última utilização;
